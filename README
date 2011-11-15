@@ -1,7 +1,1 @@
-nolan-sylvains-macbook:INSPIRED nouljaboi$ vim README
-nolan-sylvains-macbook:INSPIRED nouljaboi$ git add README
-nolan-sylvains-macbook:INSPIRED nouljaboi$ git commit -m "third"
-[master 8c4fcd7] third
- 1 files changed, 1 insertions(+), 1 deletions(-)
-nolan-sylvains-macbook:INSPIRED nouljaboi$ git push -u origin master
- 
+This is a project built in Titanium Appcelerator for the iPad. I built this prototype with a team of a few other developers during 3 Day Startup in Gainesville.
